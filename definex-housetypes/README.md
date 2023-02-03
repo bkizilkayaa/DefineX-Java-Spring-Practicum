@@ -19,4 +19,4 @@
 - Print all of the results in the main function in a readable way.
 
 ### Output:
-![output.png](output.png)
+<img src="img/output.png"/>
